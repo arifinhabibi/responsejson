@@ -1,0 +1,35 @@
+{
+  "name": "arifinhabibi/responsejson",
+  "description": "Package helper for response json laravel",
+  "keywords": [
+    "package",
+    "laravel",
+    "helper",
+    "ResponseJSON",
+    "response",
+    "RESTful API",
+    "json",
+    "status code",
+    "simple",
+    "library"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/arifinhabibi/responsejson.git",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Arifinhabibi\\ResponseJSON\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Muhammad Arifin Habibi",
+      "email": "arifinhabibi76@gmail.com",
+      "homepage": "https://cvarifinhabibi.my.id",
+      "role": "Owner"
+    }
+  ],
+  "require": {}
+}
